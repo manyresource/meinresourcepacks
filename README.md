@@ -1,0 +1,2 @@
+# meinresourcepacks
+rüstung,sword,pickaxe
